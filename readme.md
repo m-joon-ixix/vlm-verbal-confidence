@@ -1,3 +1,5 @@
+ℹ️ This is a public repository built to share my progress during the Ph.D. application process. The development is ongoing in another private repository which has 200+ commits.
+
 # Managing Secrets
 > This project manages secrets in a separate yaml file, which is not uploaded to GitHub for security purposes. The file is `config/secrets.yaml` and should be in the following format.
 ```yaml
@@ -25,3 +27,4 @@ api_key:
    1. Construct the training dataset using `construct_dataset` in `RTuning` class.
    2. Finetune the model with the training dataset.
    3. Run inference on test split with the fine-tuned VLM to generate responses and then parse them. 
+
