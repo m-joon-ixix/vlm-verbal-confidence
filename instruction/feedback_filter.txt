@@ -1,0 +1,9 @@
+### Proposed answer:
+{}
+### Feedback:
+{}
+### Instruction:
+Choose the correct option that answers the question considering the proposed answer and feedback.
+### Output format:
+Final answer: <a SINGLE letter representing the option you choose, without any additional text or explanation. "None" here if you don't choose any option.>
+

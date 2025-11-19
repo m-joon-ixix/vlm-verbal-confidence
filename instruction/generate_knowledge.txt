@@ -1,0 +1,5 @@
+### Image description:
+{}
+### Instruction:
+You are a domain expert. Please retrieve relevant passages and generate background knowledge. DO NOT try to give an answer or any hint. Your response should be no more than 200 words.
+

@@ -1,0 +1,9 @@
+.idea
+output
+__pycache__
+test.ipynb
+setup
+log.txt
+config/r_tuning
+config/secrets.yaml
+training_output

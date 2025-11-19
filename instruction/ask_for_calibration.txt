@@ -1,0 +1,4 @@
+### Proposed answer:
+{}
+### Instruction:
+Provide the probability that the proposed answer is correct in decimal number between 0.0 and 1.0. Give ONLY the probability, no other words or explanation.

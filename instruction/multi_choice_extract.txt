@@ -1,0 +1,5 @@
+### Answer:
+{}
+### Instruction:
+Your task is to extract the chosen option in the answer. Only give a SINGLE letter representing the label of the option that the answer chooses, without any additional text or explanation. The label of each option is the letter before the period (e.g., The label of "A. xxx" is A). Give "None" if the answer doesn't choose one of the given options or abstains.
+

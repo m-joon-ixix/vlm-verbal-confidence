@@ -1,0 +1,5 @@
+### Feedback:
+{}
+### Instruction:
+Your task is to extract the judgment of the feedback. It the feedback supports the proposed answer, repl only "support"; if the feedback refutes the proposed answer, reply only "refute"; if the feedback abstains from giving judgment, reply only "abstain".
+

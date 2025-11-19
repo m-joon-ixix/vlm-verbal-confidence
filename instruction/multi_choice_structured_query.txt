@@ -1,0 +1,6 @@
+### Instruction:
+Choose one option that best answers the question and explain your reasoning step by step. Keep your answer concise. Ensure that your final answer corresponds exactly to the chosen option to avoid misalignment.
+### Output format:
+Reasoning: <your reasoning steps>
+Final answer: <a SINGLE letter representing the label of the option you choose, without any additional text or explanation. The label of each option is the letter before the period (e.g., The label of "A. xxx" is A). "None" here if you don't choose any option.>
+

@@ -1,0 +1,14 @@
+You previously provided a description: "{}". 
+The associated image confidence was "{}".
+Given this information, evaluate the confidence level of your response in natural language, using one of the following prefixes:
+- "I don't know" (confidence 0)
+- "very low" (confidence 1)
+- "low" (confidence 2)
+- "moderate" (confidence 3)
+- "moderately high" (confidence 4)
+- "fairly confident" (confidence 5)
+- "quite confident" (confidence 6)
+- "confident" (confidence 7)
+- "very confident" (confidence 8)
+
+Please ensure the prefix is included at the beginning of your response.

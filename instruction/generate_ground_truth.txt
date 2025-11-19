@@ -1,0 +1,17 @@
+### Description 1:
+{}
+### Description 2:
+{}
+### Description 3:
+{}
+### Instruction: 
+You are a player in a game tasked with analyzing an unseen image based on three descriptions provided by other players. These descriptions may be accurate, or intentionally misleading. Your task is to detect and correct misleading or missing information in the given descriptions and synthesize an accurate, detailed description of the image. Make sure to focus on:
+1. Object Identification: List all the objects in the image.
+2. Attribute Analysis: Describe each object's attributes (e.g., color, size, shape, or other visible features).
+3. Relationship Analysis: Explain the spatial relationships, interactions, or contextual connections between objects.
+Guidelines for Success:
+• You have the privilege to see the correct answer to the question: {}. 
+• Assume that the descriptions may include both accurate, misleading or missing information. Use logical analysis to cross-reference details across descriptions.
+• If the descriptions are insufficient to deduce the correct answer, it indicates that an important detail is either omitted or unclear. Infer the most plausible scenario using the correct answer as a reference. Additionally, identify and disregard any misleading information that contradicts the correct answer.
+Integrating all relevant details from the descriptions, the given question and the correct answer to identify inaccuracies or omissions in the descriptions and synthesize an accurate, detailed description of the image.
+Please keep the reasoning part concise to ensure there are enough tokens to output the final accurate description in this form: ** the accurate description: **.

@@ -1,0 +1,4 @@
+### Ground truth for image description:
+{}
+### Instruction:
+Please read the above text carefully and analyze the content and infer what "The Accurate Description:" would be based on the most relevant and accurate details provided. Ensure your output is clear, concise, and directly addresses the accurate description of the image.

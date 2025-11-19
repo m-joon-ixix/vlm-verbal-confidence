@@ -1,0 +1,5 @@
+### Instruction:
+The following response has been provided, but we need to determine its confidence in answering the question. Please provide a confidence score from 0 to 10 for this response.
+Response: {response}
+Confidence Score should be based on how well the response addresses the question and its accuracy.
+Your answer should give ONLY the score, no other explanation. The format is: "Confidence: <number>"

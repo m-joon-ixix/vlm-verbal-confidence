@@ -1,0 +1,5 @@
+### Instruction:
+The following description has been provided, but we need to determine its confidence in describing an image. Please provide a score between 0 and 10 based on the confidence of this description.
+Description: {}
+The score should be based on how well the description describes the image in order to address the question.
+Your answer should give ONLY the score, no other explanation. The format is: "Score: <number>"

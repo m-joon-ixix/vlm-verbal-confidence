@@ -1,0 +1,13 @@
+### Image description:
+{}
+### Retrieved knowledge:
+{}
+### Proposed answer:
+{}
+### Instruction:
+Please review the proposed answer. Exam:
+1. If the extracted visual information in the proposed answer is inconsistent with the given image and image description;
+2. If the reasoning steps of the proposed answer are incorrect and if any step mismatches prior steps or given context;
+3. If the proposed answer uses any external knowledge contradictory to the retrieved knowledge (please avoid using only your own knowledge).
+If so, identify the exact key problems. If not, provide an explanation. If you are unable to determine or need more information, please say, "I don't know". Your response should be no more than 200 words.
+

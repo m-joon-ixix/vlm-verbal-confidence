@@ -1,0 +1,12 @@
+### Ground Truth Description:
+{}
+### Sample Description:
+{}
+### Instruction:
+You are given a ground truth description and multiple sample descriptions. Evaluate each sample description with reference to the ground truth and check for contradictions. If contradictions exist, identify where the contradictory parts are and assess their significance in answering the question. For each sample description, provide a score between 0 and 10 based on the severity of contradictions, where:
+- 10: No contradictions; the sample description perfectly matches the ground truth.
+- 7-9: Minor contradictions, but the overall context is consistent.
+- 4-6: Moderate contradictions affecting clarity or key points.
+- 0-3: Major contradictions rendering the description invalid or misleading.
+Your answer should give ONLY the score, no other explanation. The format is: 'Score: <score1>, <score2>, <score3>, ...'
+

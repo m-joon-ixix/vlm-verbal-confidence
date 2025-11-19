@@ -1,0 +1,7 @@
+### Image description:
+{}
+### Proposed answer:
+{}
+### Instruction:
+Please review the proposed answer. Exam if the extracted visual information in the proposed answer is inconsistent with the given image and image description. If so, identify the exact key problems. If not, provide an explanation. If you are unable to determine or need more information, please say, "I don't know". Your response should be no more than 200 words.
+
